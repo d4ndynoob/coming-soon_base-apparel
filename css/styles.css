@@ -172,12 +172,12 @@ body{
     .main__cont-logo{
         grid-column: 1/-1;
         grid-row: 1/2;
-        padding: 60px 20px 40px 20px;
+        padding: 3.75rem 1.25rem 2.5rem 1.25rem;
     }
     .main__textos{
         grid-column: 1/-1;
         grid-row: 3/4;
-        padding: 0 20px 40px 20px;
+        padding: 0 1.25rem 2.5rem 1.25rem;
         text-align: center;
     }
     .main__imagen{
@@ -186,8 +186,8 @@ body{
         background: url(../img/hero-mobile.jpg) no-repeat;
         background-size: cover;
         object-fit: cover;
-        height: 300px;
+        height: 18.75rem;
         width: 100%;
-        margin-bottom: 30px;
+        margin-bottom: 1.875rem;
     }
 }
